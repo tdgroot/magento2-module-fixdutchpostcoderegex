@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+    <type name="Magento\Directory\Model\Country\Postcode\Config">
+        <plugin name="timpack_fixdutchpostcoderegex_directory_country_postcode_config_plugin" type="Timpack\FixDutchPostCodeRegex\Model\Directory\Country\Postcode\Config\Plugin" />
+    </type>
+</config>
