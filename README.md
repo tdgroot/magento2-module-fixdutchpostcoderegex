@@ -1,7 +1,6 @@
 # Fix Dutch PostCode Regex
 
-This module fixes the Dutch(nl_NL) postcode regex in Magento 2. I created a [pull request](https://github.com/magento/magento2/pull/4874) a long time ago, but it won't get through.
-
+This module fixes the Dutch(nl_NL) postcode regex in Magento 2. I created a [pull request](https://github.com/magento/magento2/pull/4874) and it got merged, so this module won't be necessary in Magento 2.2.
 ### Installation using Composer
 
 ```
